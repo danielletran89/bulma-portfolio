@@ -8,3 +8,6 @@ A project in UofO Coding Bootcamp was to update our first portfolios with our ne
 
 Click the link below and check out my site. Other links available once there.
 
+https://danielletran89.github.io/bulma-portfolio/
+
+
