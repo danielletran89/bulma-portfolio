@@ -1,0 +1,57 @@
+.hero.is-success {
+    background-image: url(http://a.espncdn.com/photo/2014/0130/as_surf_waimea_heff_2048.jpg) !important;
+    color: #fff;
+}
+
+#name {
+    color: white;
+    font-size: 175px;
+    font-family: 'Righteous', cursive;
+}
+
+#name-sub {
+    font-family: 'Righteous', cursive;
+    color: white;    
+}
+
+.navbar-menu .navbar-menu:hover {
+    margin-right: 0.5rem;
+    background-color: #ffffff !important;
+}
+
+.section-heading {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 6em;
+}
+
+.section-2 {
+    background-color: grey;
+}
+
+#h3 {
+    color: white;
+}
+
+.title {
+    font-size: 2em, !important;
+    font-family: 'Righteous', cursive;
+    color: white;
+}
+
+.portfolio-container .card {
+    margin-bottom: 2em;
+}
+
+img {
+    transition:transform 0.25s ease;
+}
+
+img:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
+}
+
+@media screen and (max-width: 762px) {
+
+}
